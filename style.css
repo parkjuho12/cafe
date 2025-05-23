@@ -63,7 +63,7 @@ body {
     transform: translateX(-50%);
     width: 100vw;
     height: 400px;
-    background: url('../images/bg1.jpeg') center/cover no-repeat;
+    background: url('bg1.jpeg') center/cover no-repeat;
     opacity: 0.23;
     z-index: 0;
   }
